@@ -1,4 +1,4 @@
-#  ABDELRAHMAN ALJAMAL </center>  
+<h1 align="center">Abdelrahman Aljamal</h1>
 <center> aljamal1@myumanitoba.ca </center>  
 
 ## EDUCATION  
